@@ -1,0 +1,14 @@
+.SignInStudent{
+    background-image: url(./image/banner3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center ;
+    min-height: 800px;
+}
+.SignInAdmin{
+    background-image: url(./image/adminbackground.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center ;
+    min-height: 800px;
+}

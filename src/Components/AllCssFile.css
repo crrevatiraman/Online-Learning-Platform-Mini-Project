@@ -1,0 +1,47 @@
+.Navbar {
+    background-image: url(./image/background5.png);
+}
+
+.Footer {
+    background-image: url(./image/background5.png);
+}
+
+.SignInStudent {
+    background-image: url(./image/banner3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    min-height: 800px;
+}
+
+.SignInAdmin {
+    background-image: url(./image/adminbackground.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    min-height: 800px;
+}
+
+.RegistrationForm {
+    background-image: url('./image/background1.png');
+}
+
+.Homepage {
+    background-image: url(./image/Homebg.png);
+    /* background-repeat: no-repeat; */
+    /* background-size: cover; */
+    /* background-position: center ; */
+}
+.updateForm{
+    background-image: url(./image/updatebackground.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center ;
+    min-height: 800px;
+}
+.Admin{
+    background-image: url(./image/backgroundadim.png);
+}
+.Alert{
+    background-image: url(./image/background5.png);
+}
